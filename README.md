@@ -28,4 +28,4 @@
 <hr>
 [demo](https://youtu.be/CLaIwJRqCFs?si=00YzNWN9OwMUMx7K)
 
-[練習放圖](\images\SampleOrder PNGuploadPractice.png)
+[練習放圖](file:///C:/KainoGithub/ex1/images/SampleOrder%20PNGuploadPractice.png)
