@@ -28,4 +28,5 @@
 <hr>
 [demo](https://youtu.be/CLaIwJRqCFs?si=00YzNWN9OwMUMx7K)
 
-[練習放圖](file:///C:/KainoGithub/ex1/images/SampleOrder%20PNGuploadPractice.png)
+[練習放圖](<img width="200" height="282" alt="SampleOrder PNGuploadPractice" src="https://github.com/user-attachments/assets/89b107a2-e8d7-45c9-b5df-6678790c4b44" />
+)
