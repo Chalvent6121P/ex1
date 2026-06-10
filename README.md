@@ -8,7 +8,7 @@
 
 你好，這裡是Ex1練習語法喔~<br>
 你還在呀?
-<hr>
+
 還沒離開?這裡真的是練習MarkDown語法的地方<br>
 
 [google](http://www.google.com)
