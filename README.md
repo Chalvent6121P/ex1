@@ -1,17 +1,15 @@
 # Ex1
-# 練習MarkDown語法
-## 練習MarkDown語法
-### 練習MarkDown語法
-#### 練習MarkDown語法
-##### 練習MarkDown語法
-###### 練習MarkDown語法
-####### 練習MarkDown語法
-######## 練習MarkDown語法
+# Ex1練習MarkDown語法
+## Ex1練習MarkDown語法
+### Ex1練習MarkDown語法
+#### Ex1練習MarkDown語法
+##### Ex1練習MarkDown語法
+###### Ex1練習MarkDown語法
 
-jghsadjgjgjhgjhgjgjhgjhgjhgjhggg<br>
-jgbjhggjgjgj
+你好，這裡是Ex1練習語法喔~<br>
+你還在呀?
 <hr>
-jhgjhgjgjhgjg<br>
+還沒離開?這裡真的是練習MarkDown語法的地方<br>
 
 [google](http://www.google.com)
 
