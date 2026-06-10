@@ -28,4 +28,4 @@
 <hr>
 [demo](https://youtu.be/CLaIwJRqCFs?si=00YzNWN9OwMUMx7K)
 
-[練習放圖](\ex1\images\SampleOrder PNGuploadPractice.png)
+[練習放圖](\images\SampleOrder PNGuploadPractice.png)
