@@ -28,4 +28,4 @@
 <hr>
 [demo](https://youtu.be/CLaIwJRqCFs?si=00YzNWN9OwMUMx7K)
 
-[練習放圖](<img width="200" height="282" alt="SampleOrder PNGuploadPractice" src="https://github.com/user-attachments/assets/5beea39c-c977-41e1-a186-e9575e9c8e9c" />)
+[練習放圖]()
